@@ -6,4 +6,4 @@ There might be some issues with downloading this repository since I don't have e
 
 The documentation is available in the PDF file named **engineer-s-thesis**. You can view it below:
 
-[engineer-s-thesis.pdf](./engineer-s-thesis.pdf)
+[engineer-s-thesis.pdf](./Engineer-s-Thesis.pdf)
