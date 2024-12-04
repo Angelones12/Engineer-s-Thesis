@@ -4,6 +4,6 @@ There might be some issues with downloading this repository since I don't have e
 
 [Google Drive Link](https://drive.google.com/drive/folders/1sD5QrBoykG7a4Ok4TKTYaGzozysfQ77Y?usp=sharing)
 
-The documentation is available in the PDF file named **engineer-s-thesis**. You can view it below:
+The documentation is available in the PDF file named **engineer-s-thesis**. You can view it below or download it from google drive:
 
-[engineer-s-thesis.pdf](./Engineer-s-Thesis.pdf)
+[Engeneer's thesis documentation](./engineer-s-thesis.pdf)
